@@ -5,6 +5,6 @@
 
 ## Organisationsform
 - Intern haben wir uns auf die Organisationsform Scrum geeinigt. 
-- Productowner: Sebsation (SAP)
+- Productowner: Sebastian (SAP)
 - Scrum-Master: Marcel Mertens
-- Zwei Sprints: 1.Abgabe und 2. Abgabe
+- Zwei Sprints: 1. Abgabe und 2. Abgabe
