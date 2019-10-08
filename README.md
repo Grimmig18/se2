@@ -1,2 +1,2 @@
-# se2
+# SE2
 Project for Software Engineering 2
