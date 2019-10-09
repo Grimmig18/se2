@@ -2,7 +2,12 @@
 Projekt für Software Engineering 2
 
 ## Gruppe
-Multiflex (Tristan Emig ([@TristanMrb](https://github.com/TristanMrb)), Benno Grimm ([@Grimmig18](https://github.com/Grimmig18)), Tizian Groß ([@Tizian123](https://github.com/Tizian123)), Marcel Mertens ([@NerdyStuff](https://github.com/NerdyStuff)) & Anton Ochel ([@Tony1704](https://github.com/Tony1704)))
+### Multiflex 
+* Tristan Emig ([@TristanMrb](https://github.com/TristanMrb))
+* Benno Grimm ([@Grimmig18](https://github.com/Grimmig18)) 
+* Tizian Groß ([@Tizian123](https://github.com/Tizian123))
+* Marcel Mertens ([@NerdyStuff](https://github.com/NerdyStuff))
+* Anton Ochel ([@Tony1704](https://github.com/Tony1704))
 
 ## Gliederung des Projekts
 Das Projekt ist in einzelne Ordner gegliedert, die die zugehörigen Dateien enthalten.
