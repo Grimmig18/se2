@@ -6,8 +6,8 @@
 - Abschließungen eines Spotify-Premium Abos über unsere App
 
 ## Preis-Metriken
-- Anzahl an gekauften Bücher über die App 
-- Käufe von Premium auf Spotify
+- Provision von Anzahl an gekauften Bücher über die App 
+- Provision von Käufen von Premium auf Spotify
 
 ## Nutzungs-Metriken,
 - Wieviele Stunden wird Musik gehört
