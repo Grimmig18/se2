@@ -16,4 +16,4 @@ Das Projekt ist in einzelne Ordner gegliedert, die die zugehörigen Dateien enth
 Eine App, in der die ISBN eines Buches eingegeben werden kann, woraufhin dann eine Playlist passend zu dem Genre des Buches abgespielt wird.
 
 ## Einnahmequellen
-Werbung, empfohlene Bücher mit Amazon Ref link (oder anderer Buchladen), Kooperation mit Spotify
+Werbung, empfohlene Bücher mit Amazon Ref link mit der Amazon Product Advertising API (oder anderer Buchladen), Kooperation mit Spotify
