@@ -13,7 +13,7 @@ Projekt für Software Engineering 2
 Das Projekt ist in einzelne Ordner gegliedert, die die zugehörigen Dateien enthalten.
 
 ## Appidee
-Eine App, in der die ISBN eines Buches eingegeben werden kann, woraufhin dann eine Playlist passend zu dem Genre des Buches abgespielt wird.
+Eine App, in der die ISBN eines Buches eingegeben werden kann, woraufhin dann eine Playlist passend zu dem Genre des Buches abgespielt wird. Die Buchdaten werden mit Hilfe der Google Books API ausgelesen. Mit Hilfe der Spotify API wird eine personalisierte Playlist erstellt und abgespielt.
 
 ## Einnahmequellen
 Werbung, empfohlene Bücher mit Amazon Ref link mit der Amazon Product Advertising API (oder anderer Buchladen), Kooperation mit Spotify
