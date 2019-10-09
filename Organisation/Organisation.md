@@ -8,6 +8,7 @@
 - Productowner: Sebastian (SAP)
 - Scrum-Master: Marcel Mertens
 - Zwei Sprints: 1. Abgabe und 2. Abgabe
+- Organisation von Backlog-Items als Issues in GitHub
 
 ## Weiteres
 - Team-Meetings über Discord
