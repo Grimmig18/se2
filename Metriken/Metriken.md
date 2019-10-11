@@ -9,7 +9,7 @@
 - Provision von Anzahl an gekauften Bücher über die App 
 - Provision von Käufen von Premium auf Spotify
 
-## Nutzungs-Metriken,
+## Nutzungs-Metriken
 - Wieviele Stunden wird Musik gehört
 - Wieviele Stunden werden durchschnittlich gehört
 - Wann wird die Musik gehört
