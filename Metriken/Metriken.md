@@ -9,7 +9,7 @@
 - Provision von Anzahl an gekauften Bücher über die App 
 - Provision von Käufen von Premium auf Spotify
 
-## Nutzungs-Metriken
+## Nutzungs-Metriken,
 - Wieviele Stunden wird Musik gehört
 - Wieviele Stunden werden durchschnittlich gehört
 - Wann wird die Musik gehört
@@ -20,10 +20,10 @@
 ## Fitness Funktionen
 - Durchschnittliche Abfragezeit (Summe aus Server- und API-Antwortzeiten)
 - Durchschnittliche Ladezeiten der App
-- Server Ping (für unsere Server)
+- Server Ping (für unsere Server beim Login)
 
 ## Operational-Metriken
-- benötigter Speicher 
-- Wie sicher ist Spotify
-- Wie lange laufen unsere Server stabil
-- CPU Auslastung der Server
+- benötigter Speicher für die User Accounts
+- Wie stabil ist die Spotify-API bei vielen Anfragen
+- Wie viel Serverlast entsteht, wenn viele Nutzer neue Accounts erstellen
+- CPU Auslastung der Server, bei der Analyse der gelesenen Bücher für neue Vorschläge
